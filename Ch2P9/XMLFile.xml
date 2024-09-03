@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/AdImages/a1.jpeg</ImageUrl>
+    <NavigateUrl>https://www.google.com</NavigateUrl>
+    <AlternateText>msn Site</AlternateText>
+    <Keyword>MSN</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/AdImages/a2.jpeg</ImageUrl>
+    <NavigateUrl>https://www.google.com</NavigateUrl>
+    <AlternateText>yahoo Site</AlternateText>
+    <Keyword>YAHOO</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/AdImages/A3.jpeg</ImageUrl>
+    <NavigateUrl>https://www.google.com</NavigateUrl>
+    <AlternateText>Indiatimes Site</AlternateText>
+    <Keyword>INDIATIMES</Keyword>
+  </Ad>
+</Advertisements>
